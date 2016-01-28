@@ -1,7 +1,7 @@
 name: Eighty-K
 favicon: null
-layout_spectrum: 0.40960778505541384
-typography_spectrum: 0.9404597952961922
+layout_spectrum: 0.07139347703196108
+typography_spectrum: 0.35813433141447604
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.86470354674384
-  lightness: 0.9311164258979261
-  saturation: 0.35139974346384406
-  rhythmicContrast: 0.294124849839136
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.015718842390924692
+  lightness: 0.2884333934634924
+  saturation: 0.3328479982446879
+  rhythmicContrast: 0.06511529092676938
 purpose: []
